@@ -1,0 +1,22 @@
+{
+  "name": "copanasonic",
+  "version": "1.0.0",
+  "description": "This pacakge is to try out npm features.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rajeshar/npmhandson.git"
+  },
+  "keywords": [
+    "npm"
+  ],
+  "author": "RajeshAr",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rajeshar/npmhandson/issues"
+  },
+  "homepage": "https://github.com/rajeshar/npmhandson#readme"
+}
